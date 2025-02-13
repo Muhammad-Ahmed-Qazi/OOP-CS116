@@ -1,0 +1,1 @@
+f'0{self.hours}' if len(self.hours) == 1 else self.hours
