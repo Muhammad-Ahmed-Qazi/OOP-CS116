@@ -1,0 +1,57 @@
+Select operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exit
+Enter choice: 1
+Enter first operand: 25
+Enter second operand: 5
+Result: 30.0
+Select operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exit
+Enter choice: 2
+Enter first operand: 30
+Enter second operand: 15
+Result: 15.0
+Select operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exit
+Enter choice: 3
+Enter first operand: 12
+Enter second operand: 2
+Result: 24.0
+Select operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exit
+Enter choice: 4
+Enter first operand: 5
+Enter second operand: 0
+Result: Error: Division by zero
+Select operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exit
+Enter choice: 4
+Enter first operand: 5
+Enter second operand: 1
+Result: 5.0
+Select operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exit
+Enter choice: 5
