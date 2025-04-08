@@ -1,0 +1,3 @@
+Car: Toyota Corolla, Color: Red, Wheels: 4
+Motorcycle: Yamaha, Engine Capacity: 600cc, Color: Blue, Wheels: 2
+Truck: Volvo, Load Capacity: 10 tons, Color: Green, Wheels: 6
