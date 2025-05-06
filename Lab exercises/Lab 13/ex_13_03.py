@@ -22,9 +22,6 @@ if __name__ == "__main__":
 
 """ Output:
 
-Enter the radius of the circle: 6
-Enter the radius of another circle: 4
-Is circle1 smaller than circle2? False
-Is circle1 larger than circle2? True
+
 
 """
